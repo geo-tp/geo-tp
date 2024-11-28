@@ -1,6 +1,6 @@
 ### 💻 Backend Development
 
-- **[Autrucrud](https://github.com/geo-tp/AutoCrud)**
+- **[Autocrud](https://github.com/geo-tp/AutoCrud)**
 - **[Alpha Core](https://github.com/The-Alpha-Project/alpha-core)**
 - **[Medhead](https://github.com/geo-tp/Medhead)**
 - **[Classifier API](https://github.com/geo-tp/Image-Classifier-Django-API)**
