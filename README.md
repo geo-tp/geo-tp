@@ -11,9 +11,6 @@
 - **[Kanban App](https://github.com/geo-tp/DragDropKanban)**
 - **[Database Frontend](https://github.com/geo-tp/053-Database-Frontend)**
 - **[Atomic UI Kit](https://github.com/geo-tp/Atomic-Design-Blue-Wave-Ui-Kit)**
-- **[Food App](https://github.com/geo-tp/Ohmyfood)**
-- **[Data Table](https://github.com/geo-tp/React-Typescript-Data-Table)**
-- **[Booki](https://github.com/geo-tp/Booki)**
 - **[Search App](https://github.com/geo-tp/Les-Petits-Plats)**
 - **[Learn Home](https://github.com/geo-tp/Learn-Home)**
 - **[Sport Analytics](https://github.com/geo-tp/SportSee)**
