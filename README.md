@@ -37,6 +37,7 @@
 ### 🛠️ Firmwares & Hardware Hacking
 
 - **[Bitcoin Card Wallet](https://github.com/geo-tp/Bitcoin-Card-Wallet)**
+- **[Password Manager](https://github.com/geo-tp/Password-Manager)**
 - **[Ultimate Remote](https://github.com/geo-tp/Ultimate-Remote)**
 - **[M5Cardputer Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)**
 - **[MicroCOM](https://github.com/geo-tp/MicroCOM)**
