@@ -43,6 +43,7 @@
 - **[MicroCOM](https://github.com/geo-tp/MicroCOM)**
 - **[M5Cardputer GPS Logger](https://github.com/geo-tp/M5Cardputer-GPS-Logger)**
 - **[Open Wi-Fi Scanner](https://github.com/geo-tp/Open-Wifi-Scanner)**
+- **[USB Stick](https://github.com/geo-tp/Esp32-USB-Stick)**
 - **[Bluetooth Keyboard Mouse Emulator](https://github.com/geo-tp/Bluetooth-Keyboard-Mouse-Emulator)**
 
 
