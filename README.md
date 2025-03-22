@@ -41,6 +41,7 @@
 - **[Ultimate Remote](https://github.com/geo-tp/Ultimate-Remote)**
 - **[M5Cardputer Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)**
 - **[MicroCOM](https://github.com/geo-tp/MicroCOM)**
+- **[Claw Machine](https://github.com/geo-tp/Pico-Claw-Machine)**
 - **[M5Cardputer GPS Logger](https://github.com/geo-tp/M5Cardputer-GPS-Logger)**
 - **[Open Wi-Fi Scanner](https://github.com/geo-tp/Open-Wifi-Scanner)**
 - **[USB Stick](https://github.com/geo-tp/Esp32-USB-Stick)**
