@@ -46,6 +46,10 @@
 - **[Open Wi-Fi Scanner](https://github.com/geo-tp/Open-Wifi-Scanner)**
 - **[USB Stick](https://github.com/geo-tp/Esp32-USB-Stick)**
 - **[Bluetooth Keyboard Mouse Emulator](https://github.com/geo-tp/Bluetooth-Keyboard-Mouse-Emulator)**
+
+### 🔧 AVR Assembly
+
 - **[AVR ASM AES128](https://github.com/geo-tp/AVR-AES)**
+- **[AVR Task Scheduler](https://github.com/geo-tp/AVR-Task-Scheduler)**
 
 
