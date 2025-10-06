@@ -41,6 +41,7 @@
 - **[Password Manager](https://github.com/geo-tp/Password-Manager)**
 - **[ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)**
 - **[Ultimate Remote](https://github.com/geo-tp/Ultimate-Remote)**
+- **[NES Emulator](https://github.com/geo-tp/Cardputer-Nes-Emulator)**
 - **[M5Cardputer Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)**
 - **[MicroCOM](https://github.com/geo-tp/MicroCOM)**
 - **[Claw Machine](https://github.com/geo-tp/Pico-Claw-Machine)**
@@ -51,7 +52,6 @@
 
 ### 🔧 AVR Assembly
 
-- **[AVR ASM AES128](https://github.com/geo-tp/AVR-AES)**
 - **[AVR Task Scheduler](https://github.com/geo-tp/AVR-Task-Scheduler)**
 
 
