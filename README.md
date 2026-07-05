@@ -36,12 +36,11 @@
 
 ### 🛠️ Firmwares & Hardware Hacking
 
-
 - **[Bitcoin Card Wallet](https://github.com/geo-tp/Bitcoin-Card-Wallet)**
 - **[Password Manager](https://github.com/geo-tp/Password-Manager)**
-- **[ESP32 Bus Pirate](https://github.com/geo-tp/ESP32-Bus-Pirate)**
+- **[ESP32 Bit Pirate](https://github.com/geo-tp/ESP32-Bit-Pirate)**
 - **[Ultimate Remote](https://github.com/geo-tp/Ultimate-Remote)**
-- **[NES Emulator](https://github.com/geo-tp/Cardputer-Nes-Emulator)**
+- **[Game Station Emulators](https://github.com/geo-tp/Cardputer-Game-Station-Emulators)**
 - **[M5Cardputer Audio Stream Server](https://github.com/geo-tp/M5Cardputer-Audio-Stream-Server)**
 - **[MicroCOM](https://github.com/geo-tp/MicroCOM)**
 - **[Claw Machine](https://github.com/geo-tp/Pico-Claw-Machine)**
